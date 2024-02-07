@@ -9,3 +9,7 @@ Console.WriteLine(myNum);
 
 const int num2 = 10;
 Console.WriteLine(num2);
+
+Console.WriteLine("Enter age");
+int age = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Your age is: "+ age);
