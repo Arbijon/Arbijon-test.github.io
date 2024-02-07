@@ -9,3 +9,8 @@ Console.WriteLine(myNum);
 
 const int num2 = 10;
 Console.WriteLine(num2);
+
+Console.WriteLine("Enter Name");
+string userName = Console.ReadLine();
+
+Console.WriteLine("Your Name is: " + userName);
