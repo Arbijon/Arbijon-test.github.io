@@ -1,0 +1,15 @@
+C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\bin\Debug\net6.0\CSharpGitPractice.exe
+C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\bin\Debug\net6.0\CSharpGitPractice.deps.json
+C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\bin\Debug\net6.0\CSharpGitPractice.runtimeconfig.json
+C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\bin\Debug\net6.0\CSharpGitPractice.dll
+C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\bin\Debug\net6.0\CSharpGitPractice.pdb
+C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\obj\Debug\net6.0\CSharpGitPractice.csproj.AssemblyReference.cache
+C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\obj\Debug\net6.0\CSharpGitPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\obj\Debug\net6.0\CSharpGitPractice.AssemblyInfoInputs.cache
+C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\obj\Debug\net6.0\CSharpGitPractice.AssemblyInfo.cs
+C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\obj\Debug\net6.0\CSharpGitPractice.csproj.CoreCompileInputs.cache
+C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\obj\Debug\net6.0\CSharpGitPractice.dll
+C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\obj\Debug\net6.0\refint\CSharpGitPractice.dll
+C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\obj\Debug\net6.0\CSharpGitPractice.pdb
+C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\obj\Debug\net6.0\CSharpGitPractice.genruntimeconfig.cache
+C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\obj\Debug\net6.0\ref\CSharpGitPractice.dll
