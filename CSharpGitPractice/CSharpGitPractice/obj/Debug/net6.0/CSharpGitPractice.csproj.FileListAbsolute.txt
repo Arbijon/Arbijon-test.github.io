@@ -3,7 +3,6 @@ C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\bin\Debug\net6.0\CS
 C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\bin\Debug\net6.0\CSharpGitPractice.runtimeconfig.json
 C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\bin\Debug\net6.0\CSharpGitPractice.dll
 C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\bin\Debug\net6.0\CSharpGitPractice.pdb
-C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\obj\Debug\net6.0\CSharpGitPractice.csproj.AssemblyReference.cache
 C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\obj\Debug\net6.0\CSharpGitPractice.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\obj\Debug\net6.0\CSharpGitPractice.AssemblyInfoInputs.cache
 C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\obj\Debug\net6.0\CSharpGitPractice.AssemblyInfo.cs
