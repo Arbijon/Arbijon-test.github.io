@@ -12,3 +12,4 @@ C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\obj\Debug\net6.0\re
 C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\obj\Debug\net6.0\CSharpGitPractice.pdb
 C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\obj\Debug\net6.0\CSharpGitPractice.genruntimeconfig.cache
 C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\obj\Debug\net6.0\ref\CSharpGitPractice.dll
+C:\Users\Jonat\myproject\CSharpGitPractice\CSharpGitPractice\obj\Debug\net6.0\CSharpGitPractice.sourcelink.json
